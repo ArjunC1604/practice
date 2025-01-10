@@ -2,14 +2,11 @@
 
 int main()
 {
-    printf("hey doing practice");
+    char str[100];
+    printf("hey doing practice\n");
+    scanf("%s",str);
+    printf("%s",str);
     return 0;
 
-    printf("doing some faltu changes");
-
-
-        
-
-
-
+    
 }
